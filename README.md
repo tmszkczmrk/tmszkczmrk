@@ -15,4 +15,4 @@ I'm Tomasz Kaczmarek, a passionate self-taught Python programmer and Cybersecuri
 
 
 You can connect with me on:
-- LinkedIn: [Tomasz KAczmarek](https://www.linkedin.com/in/tomasz-kaczmarek-79184426b/)
+- LinkedIn: [Tomasz Kaczmarek](https://www.linkedin.com/in/tomasz-kaczmarek-79184426b/)
